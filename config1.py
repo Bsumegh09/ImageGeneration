@@ -1,1 +1,1 @@
-key = "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"
+key = "Enter your Open Ai api key"
